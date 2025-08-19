@@ -6,7 +6,7 @@ My personal web site
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Joseph Njiru | Portfolio</title>
+  <title>Joseph Njiru Odongo | Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -62,7 +62,7 @@ My personal web site
 <body>
 
 <header>
-  <h1>Joseph Njiru</h1>
+  <h1>Joseph Njiru Odongo</h1>
   <nav>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
